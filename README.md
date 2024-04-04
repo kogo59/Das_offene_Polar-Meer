@@ -27,6 +27,6 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Das offene Polarmeer. Eine Entdeckungsreise nach dem Nordpol.[hathitrust](https://www.digitale-sammlungen.de/de/view/bsb10465321?page=1)
+Das offene Polarmeer. Eine Entdeckungsreise nach dem Nordpol.[MDZ](https://www.digitale-sammlungen.de/de/view/bsb10465321?page=1)
 
 
