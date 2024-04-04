@@ -1,12 +1,12 @@
 # Das offene Polarmeer. Eine Entdeckungsreise nach dem Nordpol.
 
-<img align="right" height="150" src="https://github.com/kogo59/Meine_Eroberung_des_Nordpols/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Das_offene_Polar-Meer/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Das offene Polarmeer. Eine Entdeckungsreise nach dem Nordpol.".
 
 Authors:
 
-* [Hayes Isaac Israel](ttps://de.wikipedia.org/wiki/Isaac_Israel_Hayes) (1832-1881)
+* [Hayes Isaac Israel](https://de.wikipedia.org/wiki/Isaac_Israel_Hayes) (1832-1881)
 
 Translator:
 
