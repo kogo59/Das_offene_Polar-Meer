@@ -322,9 +322,6 @@ Das laute Gebell der Hunde und ein Geruch, der sich nicht beschreiben läßt, �
 „ein recht alter fischichter Geruch,“^[^2005]^ — erinnerte uns zuerst, daß wir uns
 einer grönländischen Ansiedlung näherten. 
 
-
-
-
 :::
 
 #### **Anmerkungen** {.break-before .unnumbered}
