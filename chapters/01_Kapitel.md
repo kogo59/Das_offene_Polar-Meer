@@ -64,4 +64,9 @@ eigene Thatkraft bauend, sah ich der Zukunft mit Vertrauen entgegen.
 
 :::
 
+:::: align-center
+****
+::::
+
+
 #### **Anmerkungen** {.break-before .unnumbered}

@@ -189,6 +189,12 @@ Berichte erhalten, als von den unteren Stationen.
 
 :::
 
+
+:::: align-center
+****
+::::
+
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^3001]: [Ein Haus, in welchem aus Walfisch- und Seehundsspeck Thran gekocht wird. *Anm. d. Uebers.*]{.footnote}

@@ -373,6 +373,10 @@ steuerten unseren Cours nach der Melville-Bai.
 
 :::
 
+:::: align-center
+****
+::::
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^5001]: [Leichte Brise.]{.footnote}

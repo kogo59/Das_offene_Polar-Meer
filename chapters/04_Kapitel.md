@@ -236,6 +236,10 @@ Taschentuches erblickten.
 
 :::
 
+:::: align-center
+****
+::::
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^4001]: [Heliotropium.]{.footnote}

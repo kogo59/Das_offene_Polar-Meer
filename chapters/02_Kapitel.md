@@ -324,6 +324,12 @@ einer grönländischen Ansiedlung näherten.
 
 :::
 
+
+:::: align-center
+****
+::::
+
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^2001]: [Berechnung des zurückgelegten Weges.  *Anm. d. Uebers.*]{.footnote}

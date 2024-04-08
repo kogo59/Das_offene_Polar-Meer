@@ -355,6 +355,9 @@ Theilnahme an ihren Schicksalen, waren sie zu Allem bereit.
 
 :::
 
+:::: align-center
+****
+::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
