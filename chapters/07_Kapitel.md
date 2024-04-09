@@ -164,7 +164,7 @@ in dieser Richtung eine Untersuchung vorzunehmen; wir eilten daher nach
 Südwesten hinab und sahen uns ängstlich nach einem Durchgang um, aber ohne Etwas
 zu entdecken, das uns ermuthigt hätte.
 
-:::: { .wrap-100 .break-before}
+:::: { .wrap-90 .break-before}
 ![&nbsp;](Das_offene_Polarmeer_060.jpg ""){#b060}
 ::::
 
