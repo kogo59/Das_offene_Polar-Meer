@@ -239,7 +239,7 @@ waren wir Alle so in unsere Sorgen und Pflichten vertieft gewesen, daß wir kaum
 bemerkt hatten, wie der Tag sich neigte. Er war langsam und gleichsam heimlich
 verschwunden, und die Dunkelheit der Nacht, die dem immer länger werdenden
 Schatten folgte, ließ uns jetzt zum ersten Mal fühlen, wie wahrhaft einsam wir
-in der arktischen Wuste waren.
+in der arktischen Wüste waren.
 
 :::
 

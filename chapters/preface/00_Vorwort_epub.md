@@ -366,8 +366,8 @@ Wissenschaften in Boston.* Cassirer: *Richard Baker jun.*
 1. [Die Ufer des Polar-Meeres. Titelkupfer.](ch001.xhtml#b001) <small>(Vergl. S. 296.) Nach einer Skizze von Dr. Hayes gezeichnet von H. Fenn.</small>
 2. [Karte der Polar-Gegenden](ch002.xhtml#b002) <small>Gezeichnet von C. A. Schott.</small>
 3. [Karte vom Smith-Sund zur Erläuterung von Dr. Hayes' Reise und Entdeckungen.](ch009.xhtml#b060) <small>Gezeichnet von Dr. Hayes.</small>
-4. [Port Foulle und seine Umgebung in Nord-Grönland, Winterquartier der Expedition.](ch01ß.xhtml#b077) <small>Gezeichnet von Dr. Hayes.</small>
-5. Ein arktisches Gespann . <small>Nach einer Skizze von Dr. Hayes gezeichnet von G. G. White.</small>
+4. [Port Foulle und seine Umgebung in Nord-Grönland, Winterquartier der Expedition.](ch010.xhtml#b077) <small>Gezeichnet von Dr. Hayes.</small>
+5. [Ein arktisches Gespann.](ch011.xhtml#b087) <small>Nach einer Skizze von Dr. Hayes gezeichnet von G. G. White.</small>
 6. Eine Bärenjagd. </small>Nach der Beschreibung gezeichnet von Darley.</small>
 7. Uebergang über die Eishöcker. <small>Nach einer Skize von Dr. Hayes gezeichnet von G. G. White.</small>
 8. Eine Walroßjagd. </small>Nach der Beschreibung gezeichnet von Darley.</small>
