@@ -9,7 +9,6 @@ Weihnachts-Heilige-Abend. — Der erste Weihnachtstag. — Das Weihnachtsmahl.
 
 ::: justified
 
-
 :::: { .fs-xs .align-right }
 Den 22. December.
 ::::
