@@ -325,7 +325,7 @@ sein Grab fallen lassen.
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^2300]: [Zwischen —27°~57~ und —32°,~02~ R.]{.footnote}
+[^2300]: [Zwischen —27°,~57~ und —32°,~02~ R.]{.footnote}
 
 [^2301]: [Sunrise Point.]{.footnote}
 
