@@ -1,4 +1,4 @@
-# Fünfzehntes Kapitel {#fuenfzehn .unnumbered }
+# Fünfzehntes Kapitel. {#fuenfzehn .unnumbered }
 
 :::: fs-xs
 Die arktische Mitternacht. — Sonntag bricht nach dem Whale-Sund auf. — Wirkung

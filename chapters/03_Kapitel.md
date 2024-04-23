@@ -1,4 +1,4 @@
-# Drittes Kapitel {#drei .unnumbered }
+# Drittes Kapitel. {#drei .unnumbered }
 
 :::: fs-xs
 Die Colonie Pröven. — Der Kayak des Grönländers. — Mangel an Hunden. — Großmuth

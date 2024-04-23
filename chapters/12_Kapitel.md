@@ -1,4 +1,4 @@
-# Zwölftes Kapitel {#zwoelf .unnumbered }
+# Zwölftes Kapitel. {#zwoelf .unnumbered }
 
 :::: fs-xs
 Meine Kajüte. — Vermessung. — Ueber den Scorbut. — Die Gefahren, kalten Schnee

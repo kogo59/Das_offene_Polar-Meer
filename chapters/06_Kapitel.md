@@ -1,4 +1,4 @@
-# Sechstes Kapitel {#sechs .unnumbered }
+# Sechstes Kapitel. {#sechs .unnumbered }
 
 :::: fs-xs
 Einfahrt in die Melville-Bai. — Das Mittel-Eis. — Der große Polarstrom. — Ein

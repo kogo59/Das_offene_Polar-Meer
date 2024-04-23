@@ -1,4 +1,4 @@
-# Zweiundzwanzigstes Kapitel {#zweiundzwanzig .unnumbered }
+# Zweiundzwanzigstes Kapitel. {#zweiundzwanzig .unnumbered }
 
 :::: fs-xs
 Frühlingsdämmerung. — Es kommen Eskimos an. — Wir erhalten Hunde. — Kalutunah,

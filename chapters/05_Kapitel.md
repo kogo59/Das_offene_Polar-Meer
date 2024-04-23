@@ -1,4 +1,4 @@
-# Fünftes Kapitel {#fuenf .unnumbered }
+# Fünftes Kapitel. {#fuenf .unnumbered }
 
 :::: fs-xs
 Zwischen den Eisbergen. — Gefahren arktischer Schifffahrt. — Wir entgehen mit

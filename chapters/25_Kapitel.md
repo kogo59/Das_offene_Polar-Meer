@@ -1,4 +1,4 @@
-# Fuenfundzwanzigstes Kapitel {#fuenfundzwanzig .unnumbered }
+# Fuenfundzwanzigstes Kapitel. {#fuenfundzwanzig .unnumbered }
 
 :::: fs-xs
 Ich sende Proviant vorwärts. — Kalutunah als Treiber. — Kalutunah civilisirt. —

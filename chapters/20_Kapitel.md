@@ -1,4 +1,4 @@
-# Zwanzigstes Kapitel {#zwanzig .unnumbered }
+# Zwanzigstes Kapitel. {#zwanzig .unnumbered }
 
 :::: fs-xs
 Wir leben der Sonne entgegen. — Das offene Meer. — Vögel.<br/><br />

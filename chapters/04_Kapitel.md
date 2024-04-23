@@ -1,4 +1,4 @@
-# Viertes Kapitel {#vier .unnumbered }
+# Viertes Kapitel. {#vier .unnumbered }
 
 :::: fs-xs
 Upernavik. — Gastfreundschaft der Einwohner. — Gibson Caruthers' Tod und

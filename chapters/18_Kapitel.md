@@ -1,4 +1,4 @@
-# Achtzehntes Kapitel {#achtzehn .unnumbered }
+# Achtzehntes Kapitel. {#achtzehn .unnumbered }
 
 :::: fs-xs
 Herrn Sonntag's lange Abwesenheit. — Wir bereiten uns vor, nach ihm zu suchen. —

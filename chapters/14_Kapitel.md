@@ -1,4 +1,4 @@
-# Vierzehntes Kapitel {#vierehn .unnumbered }
+# Vierzehntes Kapitel. {#vierzehn .unnumbered }
 
 :::: fs-xs
 Die Mitte des Winters. — Die Monate lange Nacht. — Glanz des Mondlichts. — Milde

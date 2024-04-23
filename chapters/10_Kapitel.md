@@ -1,4 +1,4 @@
-# Zehntes Kapitel {#zehn .unnumbered }
+# Zehntes Kapitel. {#zehn .unnumbered }
 
 :::: fs-xs
 Reise auf den Gletscher. — Das erste Lager. — Ersteigung des Gletschers. —

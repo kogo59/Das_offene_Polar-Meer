@@ -1,4 +1,4 @@
-# Elftes Kapitel {#elf .unnumbered }
+# Elftes Kapitel. {#elf .unnumbered }
 
 :::: fs-xs
 Wichtige Ergebnisse der letzten Reise. — Das grönländische Gletschersystem. —

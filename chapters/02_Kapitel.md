@@ -1,4 +1,4 @@
-# Zweites Kapitel {#zwei .unnumbered }
+# Zweites Kapitel. {#zwei .unnumbered }
 
 :::: fs-xs
 Ueberfahrt nach der grönländischen Küste. — Mannszucht. — Die Verdecke auf der

@@ -1,4 +1,4 @@
-# Sechzehntes Kapitel {#sechzehn .unnumbered }
+# Sechzehntes Kapitel. {#sechzehn .unnumbered }
 
 :::: fs-xs
 Das neue Jahr. — Ich erwarte Sonntag. — Das Nordlicht. — Ein merkwürdiges

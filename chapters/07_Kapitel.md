@@ -1,4 +1,4 @@
-# Siebentes Kapitel {#sieben .unnumbered }
+# Siebentes Kapitel. {#sieben .unnumbered }
 
 :::: fs-xs
 Hans und seine Familie. — Der Petowak-Gletscher. — Ein Schneewetter. — Das

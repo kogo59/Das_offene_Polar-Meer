@@ -1,4 +1,4 @@
-# Erstes Kapitel {#eins .unnumbered }
+# Erstes Kapitel. {#eins .unnumbered }
 
 :::: fs-xs
 Abschied von Boston. — In Nantasket Roads vor Anker. — Auf der See.<br /><br />

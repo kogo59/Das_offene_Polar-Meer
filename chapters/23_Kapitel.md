@@ -1,4 +1,4 @@
-# Dreiundzwanzigstes Kapitel {#dreiundzwanzig .unnumbered }
+# Dreiundzwanzigstes Kapitel. {#dreiundzwanzig .unnumbered }
 
 :::: fs-xs
 Kalutunah kehrt zurück. — Eine Eskimo -Familie. — Das Familien-Eigenthum. — Die

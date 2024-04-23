@@ -1,4 +1,4 @@
-# Dreizehntes Kapitel {#dreizehn .unnumbered }
+# Dreizehntes Kapitel. {#dreizehn .unnumbered }
 
 :::: fs-xs
 Zunehmende Dunkelheit. — Tägliche Lebens- und Geschäftsordnung. — Das Tagebuch.

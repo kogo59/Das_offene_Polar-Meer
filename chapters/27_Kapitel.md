@@ -1,4 +1,4 @@
-# Siebenundzwanzigstes Kapitel {#siebenundzwanzig .unnumbered }
+# Siebenundzwanzigstes Kapitel. {#siebenundzwanzig .unnumbered }
 
 :::: fs-xs
 Der Sturm dauert fort. — Bei der Arbeit. — Zwischen den Eishöckern. —

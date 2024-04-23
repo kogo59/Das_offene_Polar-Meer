@@ -1,4 +1,4 @@
-# Achtes Kapitel {#acht .unnumbered }
+# Achtes Kapitel. {#acht .unnumbered }
 
 :::: fs-xs
 Unser Winterhafen. — Vorbereitung auf den Winter. — Organisation der Geschäfte.

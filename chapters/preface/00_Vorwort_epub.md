@@ -369,7 +369,7 @@ Wissenschaften in Boston.* Cassirer: *Richard Baker jun.*
 4. [Port Foulle und seine Umgebung in Nord-Grönland, Winterquartier der Expedition.](ch010.xhtml#b077) <small>Gezeichnet von Dr. Hayes.</small>
 5. [Ein arktisches Gespann.](ch011.xhtml#b087) <small>Nach einer Skizze von Dr. Hayes gezeichnet von G. G. White.</small>
 6. [Eine Bärenjagd.](ch015.xhtml#b146) </small>Nach der Beschreibung gezeichnet von Darley.</small>
-7. Uebergang über die Eishöcker. <small>Nach einer Skize von Dr. Hayes gezeichnet von G. G. White.</small>
+7. [Uebergang über die Eishöcker.](ch030.xhtml#b274)  <small>Nach einer Skize von Dr. Hayes gezeichnet von G. G. White.</small>
 8. Eine Walroßjagd. </small>Nach der Beschreibung gezeichnet von Darley.</small>
 9. Tyndall-Gletscher im Whale-Sund. <small>Nach einer Photographie von Dr. Hayes gezeichnet von H. Fenn.</small>
 

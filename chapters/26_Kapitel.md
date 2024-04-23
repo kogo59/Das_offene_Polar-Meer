@@ -1,4 +1,4 @@
-# Sechsundzwanzigstes Kapitel {#sechsundzwanzig .unnumbered }
+# Sechsundzwanzigstes Kapitel. {#sechsundzwanzig .unnumbered }
 
 :::: fs-xs
 Die erste Tagereise. — Ein Sinken der Temperatur. — Seine Wirkung auf die

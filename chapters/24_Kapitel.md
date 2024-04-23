@@ -1,4 +1,4 @@
-# Vierundzwanzigstes Kapitel {#vierundzwanzig .unnumbered }
+# Vierundzwanzigstes Kapitel. {#vierundzwanzig .unnumbered }
 
 :::: fs-xs
 Antritt meiner ersten Reise. — Zweck der Reise. — Ein Unfall. — Frischer

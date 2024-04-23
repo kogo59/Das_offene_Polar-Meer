@@ -1,4 +1,4 @@
-# Neunzehntes Kapitel {#neunzehn .unnumbered }
+# Neunzehntes Kapitel. {#neunzehn .unnumbered }
 
 :::: fs-xs
 Sonntag. — Die Morgendämmerung nimmt zu. — Die arktischen Füchse. — Der Eisbär.
