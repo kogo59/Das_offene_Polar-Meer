@@ -7,7 +7,7 @@ Sonnenaufgang.<br/><br />
 ::: justified
 
 :::: { .fs-xs .align-right }
-Den 18 Februar.
+Den 18. Februar.
 ::::
 
 Gott Lob! Ich habe die Sonne wieder gesehen.
