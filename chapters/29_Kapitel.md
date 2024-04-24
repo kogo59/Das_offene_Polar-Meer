@@ -356,9 +356,6 @@ nöthiges Mahl zu bereiten, hörte man ihn in einem ernst-komischen Tone vor sic
 hin brummen: „Na, ich bin neugierig, ob dies Land ist, oder am Ende nur „Cap
 Fliegfort“?“ 
 
-
-
-
 :::
 
 :::: align-center
