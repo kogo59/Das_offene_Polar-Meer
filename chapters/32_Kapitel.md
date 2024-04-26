@@ -2,11 +2,11 @@
 
 :::: fs-xs
 Das offene Polar-Meer. — Weite des Polarbeckens. — Grenzen des Polarbeckens. —
- Polarströme. — Polar-Eis. — Der Eisgürtel. — Arktische Schifffahrt und
- Entdeckung — Die russischen Schlittenreisen. — Wrangel's offenes Meer. —
- Parry's Boots-Expedition. — Dr. Kane's Entdeckungen. — Ausdehnung des
- Smith-Sundes. — Allgemeine Schlüsse, aus meinen eigenen Entdeckungen und denen
- meiner Vorgänger gezogen. <br/><br />
+Polarströme. — Polar-Eis. — Der Eisgürtel. — Arktische Schifffahrt und
+Entdeckung — Die russischen Schlittenreisen. — Wrangel's offenes Meer. —
+Parry's Boots-Expedition. — Dr. Kane's Entdeckungen. — Ausdehnung des
+Smith-Sundes. — Allgemeine Schlüsse, aus meinen eigenen Entdeckungen und denen
+meiner Vorgänger gezogen. <br/><br />
 ::::
 
 ::: justified
