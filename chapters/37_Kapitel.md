@@ -3,10 +3,10 @@
 :::: fs-xs
 Wir verlassen Port Foulke. — Versuch, Cap Isabella zu erreichen. — Wir stoßen
 auf Packeis und suchen Schutz an der Littleton-Insel. — Jagd. — Viele Vögel und
- Walrosse. — Besuch auf der Cairn-Spitze. — Wir erreichen die Westküste. —
- Aussicht von Cap Isabella. — Pläne für die Zukunft. — Unsere Resultate. —
- Erörterung der Aussichten, das Polar-Meer zu erreichen. — Die Gletscher von
- Ellesmere-Land. <br/><br />
+Walrosse. — Besuch auf der Cairn-Spitze. — Wir erreichen die Westküste. —
+Aussicht von Cap Isabella. — Pläne für die Zukunft. — Unsere Resultate. —
+Erörterung der Aussichten, das Polar-Meer zu erreichen. — Die Gletscher von
+Ellesmere-Land. <br/><br />
 ::::
 
 ::: justified

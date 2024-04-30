@@ -371,7 +371,7 @@ Wissenschaften in Boston.* Cassirer: *Richard Baker jun.*
 6. [Eine Bärenjagd.](ch015.xhtml#b146) </small>Nach der Beschreibung gezeichnet von Darley.</small>
 7. [Uebergang über die Eishöcker.](ch030.xhtml#b274)  <small>Nach einer Skize von Dr. Hayes gezeichnet von G. G. White.</small>
 8. [Eine Walroßjagd.](ch039.xhtml#b350) </small>Nach der Beschreibung gezeichnet von Darley.</small>
-9. Tyndall-Gletscher im Whale-Sund. <small>Nach einer Photographie von Dr. Hayes gezeichnet von H. Fenn.</small>
+9. [Tyndall-Gletscher im Whale-Sund.](ch041.xhtml#b374) <small>Nach einer Photographie von Dr. Hayes gezeichnet von H. Fenn.</small>
 
 :::
 
