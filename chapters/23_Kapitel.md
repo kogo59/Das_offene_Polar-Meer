@@ -43,7 +43,7 @@ In der großen Kapuze ihres Fuchsbalg-Rockes, einer Art Rückenbeutel der
 Beutelratte, nistelte ein schlafendes Kind. Dicht neben der Mutter saß der
 Knabe, auf den ich schon angespielt habe, ihr Erstgeborener und des Vaters
 Stolz. Dann kam ein Mädchen von etwa sieben Jahren, und ein zweites, drei Jahre
-alt, war in eine große Masse Pelze eingewickelt und an die Schlittenhörner
+alt, war in eine große Masse Pelze eingewickelt und an die Schlittenhörner<a id="S228"></a>
 gebunden.
 
 Als der Schlitten nahe am Schiffe hielt, ging ich ihnen entgegen. Die Kinder

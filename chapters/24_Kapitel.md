@@ -133,7 +133,7 @@ Ich kletterte auf eine Anhöhe, wo ich eine gute Aussicht auf das Meer hatte, di
 einen Halbkreis umfaßte, dessen Radius mehrere Meilen betrug. Der Anblick war
 nicht ermuthigend. In jeder Richtung, außer unmittelbar die Küste nach Cap
 Hatherton hinab, war das Eis sehr holprig, denn es war an die Küste gezwängt,
-und in großen Stücken, die für Schlitten ziemlich hoffnungslos aussahen, über
+und in großen Stücken<a id="S240"></a>, die für Schlitten ziemlich hoffnungslos aussahen, über
 das Meer aufgestapelt. 
 
 Die Aussicht entschied den Gang meines Handelns. Die Cairn-Spitze sollte meinen
@@ -207,8 +207,8 @@ erwärmen. Der Thermometer ließ sich durch keine Schmeichelei bewegen zu steige
 Trotz alledem hielt ich noch immer an meiner Theorie von den Schneehütten fest
 und schob ganz ungerechter Weise die Schuld auf Jensen, der bei dem Bau
 nachlässig gewesen sein sollte; ich schickte ihn deshalb hinaus, um noch mehr
-Schnee aufzuwerfen. Dies machte die Sache nicht im mindesten besser, sonder eher
-noch schlimmer; denn durch die jetzt offene Thür zog die wenige Wärme, die wir
+Schnee aufzuwerfen. Dies machte die Sache nicht im mindesten besser, sonder<a id="S242"></a> 
+eher noch schlimmer; denn durch die jetzt offene Thür zog die wenige Wärme, die wir
 herzustellen ermöglicht hatten, hinaus, und als Jensen zurückkam und wir uns
 wieder einschlossen, war die Temperatur —35° F. (— 29°,~80~ R.) und kam später
 nie höher als —30° F. (—27°,~57~ R.). Selbst Kalutunah wurde im Schlafe gestört,

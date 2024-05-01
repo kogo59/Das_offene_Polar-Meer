@@ -254,7 +254,7 @@ todte Oberfläche, kein Lüftchen rührt sich. Die Sonne hängt dicht auf dem
 nördlichen Horizont; der Nebel hat sich in leichte Wolken zertheilt; die
 Eisberge liegen dick um uns herum; die dunkeln Vorländer stehen kühn gegen den
 Himmel hervor; und Wolken und Meer, und Eisberge und Gebirge baden sich in einer
-Atmosphäre vom schönsten Karmosin, Gold und Purpur. 
+Atmosphäre vom schönsten Karmosin, Gold und Purpur.<a id="S20"></a>
 
 In meinem ganzen früheren Leben in dieser Gegend, wo immer neue Wunder uns in
 Erstaunen setzen, hatte ich nie Etwas gesehen, das dem gleich kam, wovon ich in
@@ -340,4 +340,4 @@ einer grönländischen Ansiedlung näherten.
 
 [^2004]: [Die obersten Theile der Mastbäume. *Anm. d. Uebers.*]{.footnote}
 
-[^2005]: [Schakespeare's Sturm. Act II, Scene 2. *Anm. d. Uebers.*]{.footnote}
+[^2005]: [Schakespeare's<a id="S22"></a> Sturm. Act II, Scene 2. *Anm. d. Uebers.*]{.footnote}

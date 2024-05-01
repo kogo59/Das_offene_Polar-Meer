@@ -108,11 +108,11 @@ es meine Schuld sein.
 
 Unser Wildpret-Verzeichniß summirt sich, nach Knorr, der das Buch führt,
 folgendermaßen: Rennthiere: 74, Füchse: 21, Hasen: 12, Seehunde: 1, Eidergänse:
-14, Dovekies: 8, Alken: 6, Schneehühner: 1. Hierin ist Alles enthalten, was von
-Anfang an Bord gebracht wurde. Außer diesen wesentlichen Beiträgen zu unseren
-Wintervorräthen sind noch einige zwanzig bis dreißig Rennthiere an verschiedenen
-Orten in Löchern verborgen, die wir einbringen können, wenn es uns beliebt. Die
-stärksten Consumenten sind die Hunde. 
+14, Dovekies<a id="S128"></a>: 8, Alken: 6, Schneehühner: 1. Hierin ist Alles
+enthalten, was von Anfang an Bord gebracht wurde. Außer diesen wesentlichen
+Beiträgen zu unseren Wintervorräthen sind noch einige zwanzig bis dreißig
+Rennthiere an verschiedenen Orten in Löchern verborgen, die wir einbringen
+können, wenn es uns beliebt. Die stärksten Consumenten sind die Hunde. 
 
 McCormick hat Schmerz im Hals und eine geschwollene Zunge; dies rührt vom
 Schnee-Essen her. Er verließ mich am Gletscher, um zum Schiff zurückzukehren,
@@ -228,7 +228,7 @@ er auf der „Advance“ war. Sein Charakter hat sich nur wenig geändert, und s
 Gesicht zeigt noch dieselben Züge wie früher, — dieselbe sanfte, geschmeidige
 Stimme, dasselbe schlaue kleine Auge, dieselbe garstige Gesinnung. Ich habe sehr
 wenig Vertrauen zu ihm; aber Sonntag hat ihm seine Gunst zugewandt und zieht ihn
-als Hundetreiber Jensen weit vor.
+als Hundetreiber Jansen<a id="S131"></a> weit vor.
 
 Peter dagegen ist ein stiller, bescheidener Bursche, und stets bereit und
 willig, Alles zu thun, was von ihm verlangt wird, selbst von Seiten der

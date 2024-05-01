@@ -148,12 +148,12 @@ Der erste Sturz in die Eishöcker hinein war ziemlich aufregend. Jensen's Gespan
 ging voran, und Hans, der hintennach fuhr, schoß dicht an demselben vorbei, und
 die Hunde geriethen bunt untereinander. Jensen's Schlitten wurde beinahe
 umgeworfen und Sonntag in den Schnee gewälzt; aber er war so glücklich, das
-Gehörn des Schlittens zu ergreifen und mit Hülfe desselben wieder auf seinen
-Sitz zu kommen. Das verworrene Eis hielt die ungeduldigen Hunde sehr auf und
-brachte sie mehrmals fast zum Stehen; aber ihre Begierde und die Energie ihrer
-Treiber siegten zuletzt über alle Hindernisse, und nach vieler Mühe tauchten sie
-endlich auf einer breiten und fast ebenen Fläche auf, wo sie das Wild zum ersten
-Mal erblickten.
+Gehörn<a id="S143"></a> des Schlittens zu ergreifen und mit Hülfe desselben
+wieder auf seinen Sitz zu kommen. Das verworrene Eis hielt die ungeduldigen
+Hunde sehr auf und brachte sie mehrmals fast zum Stehen; aber ihre Begierde und
+die Energie ihrer Treiber siegten zuletzt über alle Hindernisse, und nach vieler
+Mühe tauchten sie endlich auf einer breiten und fast ebenen Fläche auf, wo sie
+das Wild zum ersten Mal erblickten.
 
 Durch den Verzug, den die Schlitten in den Eishöckern machten, hatten die Bären
 einen Vorsprung von einer vollen Meile bekommen, und es war nicht
@@ -632,14 +632,14 @@ völlige Windstille hat den Frost die ganze äußere Bai mit Eis bedecken lassen
 die krystallene Ebene erstreckt sich so weit über den Sund, als das Auge tragen
 will.
 
-Der Fluthmesser^[^1300]^ arbeitet ganz gut, aber die jüngeren Officiere beklagen sich
-bitter über die Noth, das Feuerloch eisfrei zu halten und die mit Eis
+Der Fluthmesser^[^1300]^ arbeitet ganz gut, aber die jüngeren Officiere beklagen
+sich bitter über die Noth, das Feuerloch eisfrei zu halten und die mit Eis
 überzogenen Knoten in der Dunkelheit abzulesen. Starr glitt heute ein Stück in's
 Loch hinein und ruinirte beinahe das Instrument, indem er es ergriff, um sich
 daran festzuhalten. Die Ablesungen sind in der Regel ganz genau, aber um mich
-vor einem starken Fehler zu schützen, habe ich meine eigene Art, auf dem
-Untersatz von Eis ein Zeichen zur Controle zu machen. Heute haben wir 9 Fuß 7
-Zoll zwischen Ebbe und Fluth.
+vor einem starken Fehler zu schützen, habe ich meine eigene Art, auf dem <a
+id="S156"></a>Untersatz von Eis ein Zeichen zur Controle zu machen. Heute haben
+wir 9 Fuß 7 Zoll zwischen Ebbe und Fluth.
 
 Die armen Füchse sind die unschuldigen Opfer eines neuen Vergnügens geworden.
 Sie sind sehr zahlreich, und die Officiere stellen ihnen mit Fallen, Eisen und

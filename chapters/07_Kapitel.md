@@ -676,7 +676,7 @@ Wege, den ich zwei Tage vorher mit so unglücklichem Erfolg versucht hatte.
 Wir waren nicht wenig überrascht, auf der Littleton-Insel ein Rennthier zu
 finden. Es lag in festem Schlafe, auf einem Bett von Schnee zusammengekauert.
 Dodge's Büchse sicherte es für unsere Speisekammer und beraubte die einsame
-Insel ihres einziges Bewohners.
+Insel ihres einziges<a id="S74"></a> Bewohners.
 
 Während unserer Abwesenheit war Jensen mit Hans ausgegangen und hatte ebenfalls
 Wild entdeckt. Sie hatten eine Heerde gefunden, die ungefähr ein Dutzend zählte.

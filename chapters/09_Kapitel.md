@@ -161,9 +161,9 @@ schmerzenden Arme Ruhe zu finden, so wird er die Freude begreifen, die ich
 empfand, als ich sah, daß in die meinigen die Kraft zurückkehrte. Ich konnte die
 Peitsche wieder benutzen und ermöglichte es, das unlenksame Gespann zwischen
 eine Gruppe Eishöcker und Windwehen zu lenken, die ihr Fortstürmen Etwas
-hinderten. Ich sprang plötzlich ab, ergriff das Gehörn des Schlittens und warf
-ihn um. Die Spitzen der Kufen wurden tief in den Schnee getrieben, und meine
-Flüchtlinge waren geankert.
+hinderten. Ich sprang plötzlich ab, ergriff das Gehörn<a id="S88"></a> des
+Schlittens und warf ihn um. Die Spitzen der Kufen wurden tief in den Schnee
+getrieben, und meine Flüchtlinge waren geankert.
 
 Eine kräftige Anwendung meiner sehnenbeschmitzten Peitsche überzeugte sie bald
 von den Vortheilen des Gehorsams, und als ich auf den Schlitten zurückkehrte und
@@ -261,8 +261,8 @@ Beweis, daß in nicht sehr ferner Zeit hier eine ganz bedeutende Ansiedlung
 bestand. Die Gräber sind Nichts als Haufen Steine, die man ohne Rücksicht auf
 die Richtung zusammengelegt hat, und bei der Größe des Haufens und seiner Lage
 hat man Nichts im Auge gehabt, als die Bequemlichkeit der noch Lebenden. Die
-Leichen sind bisweilen kaum ganz bedeckt. Grabmäler der Todten sind ja die
-traurigen Beweise eines schnell hinschwindenden Geschlechts.
+Leichen sind bisweilen kaum ganz bedeckt. <a id="S91"></a>Grabmäler der Todten
+sind ja die traurigen Beweise eines schnell hinschwindenden Geschlechts.
 
 :::: { .fs-xs .align-right }
 Den 18. October.

@@ -124,19 +124,19 @@ Die Jäger setzen beim Mondschein die Jagd auf Rennthiere und Füchse fort, —
 jedoch mehr aus Gewohnheit und zur Bewegung, als weil sie im Erfolg Ermuthigung
 finden; denn selbst wenn der Mond scheint, können sie nur auf's Gerathewohl
 schießen. Die Arbeit im Observatorium geht fort, und wenn der magnetische
-Beobachtungstag wiederkehrt, klettern wir jede Stunde auf das Eis-Postament und
-finden, daß Etwas vorgegangen ist. Die Verfinsterungen der Jupiter-Trabanten
-werden sorgfältig durch das Fernrohr beobachtet, damit unsere Chronometer nicht
-falsch gehen. Die Gezeiten fahren fort zu steigen und zu fallen, ungeachtet der
-ungeheuren Eislast, welche die Fluth emporhebt, und gleichgültig dagegen, daß
-sie bewacht werden. Dodge setzt seine Eismessungen fort und findet, daß die
-Krystalltafel bis zu unserm Kiel (6½ Fuß) hinabgeht, so daß wir in einer
-vollkommenen Wiege ruhen. Damit die Matrosen Etwas zu thun haben, habe ich ihnen
-aufgegeben, jeden Tag eine Stunde Segeltuch-Säcke für die Frühjahrsreisen
-zusammenzunähen. Von den Officieren erhalte ich dieselben täglichen Berichte
-fort; das Wochenblatt erscheint regelmäßig und gewährt stets eine angenehme
-Unterhaltung; der Bibliothekar giebt jeden Morgen die Bücher aus, und sie werden
-stark gelesen; die Officiere und die Mannschaft haben kein neues
+Beobachtungstag wiederkehrt, klettern wir jede Stunde auf das Eis-Postament<a id="S173"></a> 
+und finden, daß Etwas vorgegangen ist. Die Verfinsterungen der
+Jupiter-Trabanten werden sorgfältig durch das Fernrohr beobachtet, damit unsere
+Chronometer nicht falsch gehen. Die Gezeiten fahren fort zu steigen und zu
+fallen, ungeachtet der ungeheuren Eislast, welche die Fluth emporhebt, und
+gleichgültig dagegen, daß sie bewacht werden. Dodge setzt seine Eismessungen
+fort und findet, daß die Krystalltafel bis zu unserm Kiel (6½ Fuß) hinabgeht, so
+daß wir in einer vollkommenen Wiege ruhen. Damit die Matrosen Etwas zu thun
+haben, habe ich ihnen aufgegeben, jeden Tag eine Stunde Segeltuch-Säcke für die
+Frühjahrsreisen zusammenzunähen. Von den Officieren erhalte ich dieselben
+täglichen Berichte fort; das Wochenblatt erscheint regelmäßig und gewährt stets
+eine angenehme Unterhaltung; der Bibliothekar giebt jeden Morgen die Bücher aus,
+und sie werden stark gelesen; die Officiere und die Mannschaft haben kein neues
 Unterhaltungsmittel und füllen die letzten der wachen Stunden (wo es nichts
 Anderes als Nacht giebt, kann ich nicht sagen den Abend) gewöhnlich mit Karten
 und Rauchen aus. Ich gehe öfter in die Kajüte, als ich sonst zu thun pflegte;

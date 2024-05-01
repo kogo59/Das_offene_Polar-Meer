@@ -26,7 +26,7 @@ vernichtet. Hätten wir mitten im Schwarzwald gestanden, so hätten wir nicht
 vollkommener vom „sehenden Tageslicht“ können abgeschnitten sein. Als der letzte
 Streifen des Horizontes zwischen den hinter uns stehenden hohen Eisbergen vor
 den Augen verschwand, kam der Steward (der eine poetische Gemüthsrichtung hatte)
-aus der Kambüse, blieb einen Augenblick stehen, warf einen schmachtenden Blick
+aus der Kambüse<a id="S36"></a>, blieb einen Augenblick stehen, warf einen schmachtenden Blick
 nach der Oeffnung und fiel dann durch die Kajütenspringluke, indem er aus der
 „Hölle“ recitirte: 
 
@@ -192,7 +192,7 @@ die Luft stiegen; es ging ein zweiter hinüber; dann senkte sich eine ganze Seit
 gerade hinab; dann fiel das Wrack um; und endlich nach fünfstündigem Wälzen und
 Krachen blieb von der prächtigen gefrorenen Masse kein Bruchstück übrig, das
 sich fünfzig Fuß über das Wasser erhob. Ein anderer, der eine Meile lang und
-über fünfzig Fuß hoch zu sein schien, spaltete sich mit einem schnellen,
+über fünfzig<a id="S41"></a> Fuß hoch zu sein schien, spaltete sich mit einem schnellen,
 scharfen und endlich lange rasselnden Knall, welchen tausend gleichzeitig
 abgeschossene Artillerie-Geschütze kaum hätten übertreffen können, in zwei, und
 die beiden Stücke wälzten sich stundenlang immer im Meere, ehe sie zur Ruhe

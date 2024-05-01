@@ -70,6 +70,6 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA_PDF) $(CHAPTERS_HTML
 	cp  $(IMAGES_FOLDER)/Das_offene_Polarmeer_*.jpg .
 	pandoc $(ARGS_HTML) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
-	rm Das_offene_Polarmeer_*.jpg .
+	rm Das_offene_Polarmeer_*.jpg
 	
 
