@@ -18,7 +18,7 @@ starke Bände. Eleg. broch. 5 ½ Thlr.
 (Die Völker des östlichen Asiens. Studien und Reisen. Vierter Band.) Lex.-8.
 Eleg. broch. 3 Thlr.
 
-**Henglin, M. Th. von,** *Reise nach Abessynien, den GalaLändern, Ost-Sudan und
+**Henglin, M. Th. von,** *Reise nach Abessynien, den Gala-Ländern, Ost-Sudan und
 Khartum* in den Jahren 1861 und 1862. Mit 10 Illustrationen in Farbendruck und
 Holzschnitt, ausgeführt von J. M. Bernatz, nebst Originalkarte. Groß Lex.-8
 Eleganteste Ausstattung. 5 Thlr.
