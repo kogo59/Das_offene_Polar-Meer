@@ -207,5 +207,4 @@ es in die Druckerei führte, zu einem neuen Kapitel übergehen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 

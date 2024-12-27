@@ -280,6 +280,3 @@ So wurden meine Hundehütten noch einmal angefüllt, und mein Herz freute sich.
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
-

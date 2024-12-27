@@ -846,13 +846,6 @@ fürchten als alle anderen Uebel, — ärger als wilde Thiere, Sturm und Pestile
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1300]: [Tide-register.]{.footnote}
 
 [^1301]: [—31°,~34~ R.]{.footnote}

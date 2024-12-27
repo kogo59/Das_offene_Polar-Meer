@@ -735,13 +735,6 @@ nächsten Jahre untauglich fand.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^7001]: [Der Wind schralt, heißt: er fängt an, von dem Striche abzuweichen, welcher der Fahrt günstig ist, und von vorn in die Segel zu fallen. *Anm. d. Uebers.*]{.footnote}
 
 [^7002]: [—19°,~56~ R.]{.footnote}

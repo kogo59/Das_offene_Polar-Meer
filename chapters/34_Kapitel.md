@@ -140,10 +140,5 @@ befreit war.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3400]: [Die Eskimos können bis zu einem bestimmten Umfang bei einer Forschungsreise sogar nützlich gemacht werden, wie die Erfahrung Mr. C. F. Hall's gezeigt hat, der seine Entdeckungen westlich von der Repulse-Bai energisch betreibt und sich dabei nur auf die Eingeborenen verläßt.]{.footnote}

@@ -210,5 +210,4 @@ Entschlossenheit auf. Hinweg mit der Verzweiflung!
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 

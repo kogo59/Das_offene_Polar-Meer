@@ -301,11 +301,4 @@ erfrischt, zu ihrem luftigen Bett im „Gallglas“ und schläft.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1600]: [Eine Art kleiner Schiffskanonen. *Anm. d. Uebers.*]{.footnote}

@@ -244,13 +244,6 @@ in der arktischen Wüste waren.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^8001]: [Zwei deutsche Meilen.]{.footnote}
 
 [^8002]: [„The Youngsters.“]{.footnote}

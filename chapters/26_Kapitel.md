@@ -278,13 +278,7 @@ Dem raschen Nordwind gleich, der floh,<br />
 Eh' man vermag zu zeigen, wo.“^[^2600]^
 ::::
 
-
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2600]: [Rob. Burns, Tam o Shander. *Anm. d. Uebers.*]{.footnote}

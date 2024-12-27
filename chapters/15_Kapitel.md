@@ -333,10 +333,6 @@ und festlichen“ Schauplatz fortmachte. Ein Dutzend Stimmen riefen ihm laut nac
 :::
 
 
-:::: align-center
-****
-::::
-
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

@@ -111,11 +111,5 @@ Minnelieder singen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2100]: [Sunrise Point.]{.footnote}

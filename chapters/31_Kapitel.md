@@ -283,14 +283,8 @@ geführt hatte; ich fühlte, daß ich „die große und wichtige Sache,“ welch
 hartnäckigen Frobrisher seinen Eifer eingeflößt, in meiner Gewalt, und daß ich
 die Hoffnung des unvergleichlichen Parry erfüllt hatte.
 
-
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 
 [^3100]: [Es waren eine kleine Unions-Flagge (die Bootsflagge), die bei der Südsee-Expedition des Capitän Wilkes, von der Marine der Vereinigten Staaten, und später bei den Nordpol-Expeditionen des kommandirenden Lieutenants De Haven und Dr. Kane geführt worden war; eine kleine Unions-Flagge, die Herrn Sonntag von den Damen der Albany-Akademie überreicht worden war; zwei kleine Freimaurer-Flaggen, die mir anvertraut waren, — die eine von der Loge Kane in New-Nork, die andere von der Loge Columbia in Boston, — und die Signal-Flagge unserer Expedition, die das Expeditions-Emblem, den Polarstern, — einen karmosinrothen Stern in weißem Felde, — trug, ebenfalls eine Gabe von schöner Hand. Da ich durch ein heiliges Versprechen verbunden war, alle diese Flaggen an dem nördlichsten Punkt, den ich erreichte, zu entfalten, so war es eine angenehme Pflicht für mich, sie mit mir zu nehmen, — eine Pflicht, die dadurch, daß sie zusammen nicht drei Pfund wogen, nur noch angenehmer wurde.]{.footnote}

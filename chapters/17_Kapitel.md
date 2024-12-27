@@ -145,11 +145,8 @@ schreckensvoll war *wie das Schweigen der arktischen Nacht.*
 
 :::
 
-
 :::: align-center
 ****
 ::::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
 

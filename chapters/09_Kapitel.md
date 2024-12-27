@@ -766,13 +766,6 @@ Polarbären“ ausbringen.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^9001]: [Ein Sternbild.]{.footnote}
 
 [^9002]: [My Brother John's Glacier.]{.footnote}

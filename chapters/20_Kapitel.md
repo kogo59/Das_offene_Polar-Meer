@@ -75,5 +75,3 @@ bewegen, auch nur eine Feder ihrer zitternden Köpfchen zu verletzen.
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-

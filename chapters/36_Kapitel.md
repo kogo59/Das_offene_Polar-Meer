@@ -616,12 +616,6 @@ mit einem freundlichen „Adieu, Port Foulke“ auf den Lippen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^3600]: [Um den Text nicht mit Einzelheiten zu unterbrechen, die für den gewöhnlichen Leser wenig Interesse haben, gebe ich hier die vollständige Flora (so weit die beharrlichste Anstrengung sie vollständig machen konnte) der Gegend nordwärts vom Whale-Sund. Meine Sammlungen zählten mehrere Tausend Exemplare, und mein Freund Mr. Elias Durand in Philadelphia hatte die Güte, sie mir ordnen zu helfen und später in einem Aufsatz für die „Proceedings“ der Akademie der Naturwissenschaften in Philadelphia zu klassifiziren, aus welchem ich folgendes Verzeichniß mittheile:<br />1. Ranunculus nivalis.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23. Saxifraga oppositifolia.<br />
 2. Papaver nudicaule.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24. Saxifraga flagellaris.<br />
 3. Hesperis Pallasii..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25. Saxifraga caespitosa.<br />

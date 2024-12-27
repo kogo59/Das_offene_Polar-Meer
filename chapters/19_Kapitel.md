@@ -311,12 +311,4 @@ Etiquette „Smithsonian“ versehen.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1900]: [—23°,~27~ R.]{.footnote}

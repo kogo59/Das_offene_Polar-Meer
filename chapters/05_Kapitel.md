@@ -370,14 +370,8 @@ des 22. wanden wir uns wieder mühsam zwischen den Eisbergen und Inseln hindurch
 Cap Shackleton und das Horse-Vorland lag dem Steuerbordbug gegenüber, und wir
 steuerten unseren Cours nach der Melville-Bai.
 
-
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^5001]: [Leichte Brise.]{.footnote}
 

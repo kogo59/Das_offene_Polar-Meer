@@ -318,12 +318,6 @@ sein Grab fallen lassen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2300]: [Zwischen —27°,~57~ und —32°,~02~ R.]{.footnote}
 

@@ -362,11 +362,6 @@ Die Ewigkeit!“^[^3802]^
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3800]: [Zu Ehren Sr. Excellenz N. P. Banks, zur Zeit meiner Abreise im Jahre 1860 Gouverneur von Massachusetts, und Sr. Ehren F. W. Lincoln, damals Bürgermeister von Boston.]{.footnote}
 

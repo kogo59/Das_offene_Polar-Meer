@@ -495,7 +495,5 @@ Druck von G. Pätz in Naumburg a. d. Saale.
 [S. 242 Z. 6 v. u.](ch027.xhtml#S242) lies sondern statt sonder.
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^3900]: [Der Verfasser schreibt im October 1866. *Anm. d. Uebers.*]{.footnote}
 

@@ -263,13 +263,6 @@ fliegend, wie feurige Pfeile, von bösen Geistern einer andern Welt entsendet.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1001]: [Es macht mir große Freude, neuerdings erfahren zu haben, daß Harvey Heywood während des letzten Krieges im Südwesten gedient und große Tapferkeit bewiesen hat, wodurch er sich eine Stelle im Generalstab errungen, indem er den Ingenieurs eingereiht wurde. Ich fand in ihm einen vortrefflichen Zeichner.]{.footnote}
 
 [^1002]: [—27°,~57~ R.]{.footnote}

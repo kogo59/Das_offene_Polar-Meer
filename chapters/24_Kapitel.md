@@ -388,12 +388,6 @@ vierthalb Stunden gemacht.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2400]: [—14°,~22~ R.]{.footnote}
 

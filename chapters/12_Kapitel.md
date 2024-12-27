@@ -473,13 +473,6 @@ noch weniger anmuthig sind als die Mitte des arktischen Winters.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1201]: [Penny Cyclopaedia.]{.footnote}
 
 [^1202]: [Principles of Cooking.]{.footnote}

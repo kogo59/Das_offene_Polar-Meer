@@ -234,11 +234,4 @@ ungerecht sein, den Verdacht zu hegen, daß er Sonntag im Stiche ließ.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1800]: [—33°,~36~ R.]{.footnote}

@@ -324,14 +324,6 @@ einer grönländischen Ansiedlung näherten.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^2001]: [Berechnung des zurückgelegten Weges.  *Anm. d. Uebers.*]{.footnote}
 
 [^2002]: [Zwischen 4 und 8 Uhr Morgens. *Anm. d. Uebers.*]{.footnote}

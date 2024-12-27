@@ -378,5 +378,4 @@ Humboldt-Gletscher das ausfüllt, was einst ein Kanal auf der rechten Seite war.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 

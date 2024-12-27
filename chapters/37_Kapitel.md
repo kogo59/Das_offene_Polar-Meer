@@ -272,5 +272,3 @@ Klippe zur andern gespannten Leine hängt.
 :::: align-center
 ****
 ::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

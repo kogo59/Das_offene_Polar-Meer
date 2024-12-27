@@ -192,11 +192,6 @@ dazu ist ein neues Kapitel nöthig.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2500]: [*Hood's* Lied vom Hemde. *Anm. d. Uebers.*]{.footnote}
 

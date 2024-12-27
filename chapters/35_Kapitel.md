@@ -381,14 +381,8 @@ das Wasser in ein tiefes und malerisches Thal hinabsprang, das es mit einer
 Wolke von seinem eigenen Schaum erfüllte. Die Stelle figurirt in meinem
 Tagebuche als Julchen's Thal und Wasserfall (Little Julia's Glen and Fall).
 
-
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3500]: [Ich bin Dr. William Stimpson zu Dank verpflichtet für eine sorgfältige Untersuchung und Vergleichung dieser Sammlung, deren Ergebnisse von ihm in den „Proceedings“ der Akademie der Naturwissenschaften zu Philadelphia, Mai 1863, veröffentlicht wurden. Die Sammlung enthält Weniges, was ganz neu ist; aber: „Sie hat,“ wie Dr. Stimpson bemerkt, „viel Interesse, weil sie zum großen Theil in Gegenden gefunden wurde, die viel näher am Pole liegen, als allen vorhergehenden Expeditionen auf der amerikanischen Seite des nördlichen Polarkreises zu erreichen gelungen ist. Sie begreift manche Arten in sich, die bis jetzt nur auf der europäischen Seite gefunden wurden, und, dürfen wir hinzufügen, die Zahl der von Dr. Hayes gesammelten Arten ist größer, als von irgend einer einzigen Expedition, die bis jetzt diese Meere besucht hat, so weit man nach den veröffentlichten Berichten urtheilen kann, mitgebracht wurde.“ Die Sammlung umfaßt 22 Arten Crustaceen, 18 Arten Anneliden, 21 Arten Mollusken, 7 Arten Echinodermen, 1 Art Acalephen, und außer diesen eine beträchtliche Anzahl Nudibranchiaten, Actinien u. s. w., die sich nach Exemplaren in Alkohol nicht gut bestimmen lassen.]{.footnote}
 

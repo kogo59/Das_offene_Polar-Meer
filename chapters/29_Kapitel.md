@@ -361,5 +361,3 @@ Fliegfort“?“
 :::: align-center
 ****
 ::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

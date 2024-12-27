@@ -245,14 +245,7 @@ unfruchtbaren Felsen zu bleichen. Was ich morgen thun werde, muß der morgende
 Tag entscheiden. Dank der sorgfältigen Pflege, habe ich doch meine Hunde in
 gutem Zustand erhalten; das ist das Beste vom Kampfe.
 
-
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3000]: [So genannt zu Ehren des Dr. B. A. Gould in Cambridge.]{.footnote}
 

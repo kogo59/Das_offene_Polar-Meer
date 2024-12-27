@@ -315,12 +315,4 @@ abgegangen, um sein barbarisches Leben zu stören.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^6001]: [Teufelsdaumen.]{.footnote}

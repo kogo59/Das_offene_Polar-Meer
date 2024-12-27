@@ -220,12 +220,4 @@ begonnen hatte.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1400]: [Unter —14°,~22~ R.]{.footnote}
