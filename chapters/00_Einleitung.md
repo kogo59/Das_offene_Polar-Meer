@@ -355,11 +355,6 @@ Theilnahme an ihren Schicksalen, waren sie zu Allem bereit.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0002]: [American Desiccating Company.]{.footnote}
 

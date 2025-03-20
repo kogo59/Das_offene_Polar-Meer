@@ -380,6 +380,4 @@ Wissenschaften in Boston.* Cassirer: *Richard Baker jun.*
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [Der Verfasser hat Grund zu vermuthen, daß die Namen mehrerer Personen, welchen die Expedition Dank schuldet, in diesem Verzeichnisse nicht erscheinen, weil sie ihm nicht mitgetheilt worden sind. Da er dasselbe ganz vollständig zu machen wünscht, so wird er sich Jedem, dessen Name ausgelassen ist, persönlich verpflichtet fühlen, wenn er es ihm durch die Agentur, durch welche die Subscription besorgt wurde, anzeigt.]{.footnote}

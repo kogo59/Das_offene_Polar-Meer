@@ -109,7 +109,7 @@ Meer sollte den Namen des Führers der Expedition tragen, die zuerst seine
 Grenzen bestimmte, — ich meine natürlich Dr. Kane.
 
 In dieses Meer nun läuft die Strömung aus dem Polarbecken durch das oben
-erwähnte breitere Thor, das als KennedyKanal bekannt ist, und das Eis, das nur
+erwähnte breitere Thor, das als Kennedy-Kanal bekannt ist, und das Eis, das nur
 langsam durch den engen Sund in die Baffins-Bai entkommt, hat sich innerhalb des
 Meeres von Jahrhundert zu Jahrhundert angehäuft. Der Sommer zergliedert es bis
 zu einem gewissen Grade und zerbricht es in Stücke von verschiedener Größe, die
