@@ -1,6 +1,6 @@
 # Das offene Polarmeer. Eine Entdeckungsreise nach dem Nordpol.
 
-<img align="right" height="150" src="https://github.com/kogo59/Das_offene_Polar-Meer/blob/main/images/cover.jpg">
+<img align="right" width="200" src="https://github.com/kogo59/Das_offene_Polar-Meer/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Das offene Polarmeer. Eine Entdeckungsreise nach dem Nordpol.".
 
